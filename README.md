@@ -5,6 +5,8 @@
 
 This project analyzes customer shopping behavior using a PostgreSQL-based data warehouse and Tableau dashboards for business performance monitoring and decision support. It builds on my prior [SQL Data Warehouse Engineering](https://github.com/bharathsyamala/sql-data-warehouse-engineering/) project, which implements a Medallion (Bronze–Silver–Gold) architecture to transform raw CRM and ERP data into analytics-ready datasets.
 
+Access the dashboard here - [Shopping Behaviour Analysis]{https://public.tableau.com/views/ShoppingBehaviourAnalysis_17676763770250/ExecutiveSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link}
+
 
 ## Dashboard Scope
 
