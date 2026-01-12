@@ -18,18 +18,22 @@ The reporting layer was planned to include three dashboards:
 - Delivery performance (On-Time vs Delayed)
 - Estimated revenue loss from delayed deliveries
 
-<img width="1849" height="801" alt="Executive Summary (1)" src="https://github.com/user-attachments/assets/757f3b89-ed07-4819-827f-1b3faf7a4a68" />
+<img width="1849" height="801" alt="Executive Summary (2)" src="https://github.com/user-attachments/assets/78252ba5-7fa3-40d1-9614-a1e35f110a10" />
 
 
-### 2. Product Research Dashboard (Planned)
+### 2. Consumer Analysis Dashboard (Completed)
+- Customer purchase behavior
+- Customer Product Preferences
+- Customer 
+
+<img width="1849" height="801" alt="Customer Analysis" src="https://github.com/user-attachments/assets/6495ea94-dc52-4ce5-aedb-9f36ad43795a" />
+
+
+### 3. Product Research Dashboard (Planned)
 - Product and category-level performance
 - Pricing and cost analysis
 - Sales contribution by product line
 
-### 3. Consumer Pattern Analysis Dashboard (Planned)
-- Customer purchase behavior
-- Order frequency and basket analysis
-- Temporal and regional buying patterns
 
 
 ## Data Foundation
