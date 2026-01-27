@@ -52,7 +52,9 @@ The repository includes:
 ## Tools & Technologies
 
 **PostgreSQL** – Data warehouse and transformations
+
 **SQL** – Data cleansing, aggregation, and business logic
+
 **Tableau** – Data visualization and KPI reporting
 
 
